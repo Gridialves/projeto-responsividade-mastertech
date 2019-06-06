@@ -1,0 +1,15 @@
+body{
+
+margin: 0%
+}
+nav{
+height: 60px;
+background-color: blue
+}
+
+@media(max-width:800px){
+    nav{
+        background-color: brown;
+        
+    }
+}
